@@ -1,0 +1,36 @@
+***************************************
+* Changelog du site ELEVAGE DU GARRET *
+***************************************
+
+* Généralités
+-------------
+
+Pages statiques en HTML5 stockées chez OVH.
+	
+* ToDo list
+-----------
+
+...
+
+* Howto
+-------
+
+...
+
+* Administration en ligne du site 
+---------------------------------
+Pour consulter les statistiques du site, aller sur :
+URL : https://www.google.com/analytics/reporting/?id=40353061
+User : david.rousse@gmail.com
+Password : <mot de passe habituel>
+
+Le code source du site est géré via Subversion sur :
+- URL : http://sodetemplin.unfuddle.com/svn/sodetemplin/
+- Utilisateur : sodetemplin
+- Mot de passe : <mot de passe habituel>
+Utiliser un client comme TurtoiseSVN sous MS Windows pour faire les Commit ou les Check out.
+
+*****************************************************
+* Dernière mise à jour : David ROUSSE le 27/04/2012 *
+* Fin du fichier				    *
+***************************************************** 
