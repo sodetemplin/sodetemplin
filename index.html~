@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>So dé templin, site de David ROUSSE</title>
+
+<!-- meta tags -->
+<meta name="keywords" content="handiski, dualski, sitski, handbike, wakeboard, plongée, quad, natation, handi, paraplégie">
+<meta name="description" content="So dé templin, site de David ROUSSE">
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="css/reset.css" type="text/css">
+<link rel="stylesheet" href="css/common.css" type="text/css">
+<link rel="stylesheet" href="css/layout.css" type="text/css">
+
+<!-- javascript -->
+<script src="js/jquery-1.3.2.min.js"></script>
+<script src="js/stats.js"></script>
+
+<!--conditional comments -->
+<!--[if IE]>  
+	<script src="js/html5.js"></script>
+<![endif]--> 
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body class="home">
+<div id="container">
+	<header id="page-header">
+    	<div id="logo"><a href="/"><img src="images/logo.jpg" alt="So De Templin"></a></div>
+        <nav id="main-navigation">
+        	<ul>
+            	<li class="current"><a href="./index.html">Accueil</a></li>
+                <li><a href="./photos.html">Photos</a></li>
+                <li><a href="./videos.html">Vidéos</a></li>
+                <li><a href="./travail.html">Travail</a></li>
+                <li><a href="./contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <article id="page-content">
+        <section>
+            <hgroup>
+                <h1>So Dé Templin, quezako ?</h1>
+                <h2>Pourquoi ce nom ?</h2>
+            </hgroup>
+            <p>Templin est le surnom de mon arrière grand père, et par "héritage", de mon grand père. Le terme "So Dé Templin" peut donc se traduire par "Je suis de chez Templin". Et je trouve sympa comme nom de site. Voilà pour la petite histoire :-)</p>
+            <h2>Qu'il a t il sur ce site ?</h2>
+            <ul>
+                <li><a href="./photos.html">Des photos</a></li>
+                <li><a href="./videos.html">Des vidéos</a></li>
+                <li><a href="./travail.html">Des pages professionnelles (et si !)</a></li>
+            </ul>
+        </section>
+        <aside>	
+            <h2>En construction vous trouvez ?</h2>
+            <p>Effectivement, ces pages sont justes des liens vers d'autres sous sites web, n'ayant pas eu le temps à ce jour de créer un site global digne de ce nom. Mais cela viendra !!!</p>
+        </aside>
+    </article>          
+</div>
+<footer>
+	<a href="http://creativecommons.org/licenses/by-nc-nd/2.0/fr/">&copy; Creative Commons</a> - David ROUSSE 2012	
+</footer>
+</body>
+</html>
